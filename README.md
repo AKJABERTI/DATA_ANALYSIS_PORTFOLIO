@@ -24,7 +24,7 @@ Graduated: 2024
 - Practical training in Excel, SQL, Power BI, and Power Query.
 - Hands-on projects focused on retail sales and customer purchasing behavior.
 
-### 🛠️TechnicalSkills
+### 🛠️Technical Skills
 
 Excel: Data Cleaning, Formulas, PivotTables
 SQL: Joins, CTEs, Aggregations, Window Functions
