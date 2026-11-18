@@ -8,13 +8,13 @@ I'm developing practical skills in data cleaning, analysis, and visualization th
 
 ### TABLES OF CONTENTS
 1. [About Me](#about-me)
-2. [Education](📚#education)
-3. [Technical Skills](🛠️#technical-skills)
-4. [Projects](📊#projects)
+2. [Education](📚#Education)
+3. [Technical Skills](🛠️#Technical-Skills)
+4. [Projects](📊#Projects)
 5. [Level](🎯#Current-level)
-6. [Contact](📫#contact-with-me)
+6. [Contact](📫#Contact-With-Me)
 
-### 📚 Education
+### 📚Education
 
 **High School Diploma**  
 Graduated: 2024
