@@ -12,7 +12,7 @@ I'm developing practical skills in data cleaning, analysis, and visualization th
 3. [🛠️Technical Skills](#Technical-Skills)
 4. [📊Projects](#Projects)
 5. [🎯Level](#Current-level)
-6. [📫Contact](📫#Contact-With-Me)
+6. [📫Contact](#Connect-With-Me)
 
 ### 📚Education
 
@@ -24,7 +24,7 @@ Graduated: 2024
 - Practical training in Excel, SQL, Power BI, and Power Query.
 - Hands-on projects focused on retail sales and customer purchasing behavior.
 
-### 🛠️Technical Skills
+### 🛠️TechnicalSkills
 
 Excel: Data Cleaning, Formulas, PivotTables
 SQL: Joins, CTEs, Aggregations, Window Functions
