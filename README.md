@@ -11,8 +11,8 @@ I'm developing practical skills in data cleaning, analysis, and visualization th
 2. [📚Education](#Education)
 3. [🛠️Technical Skills](#Technical-Skills)
 4. [📊Projects](#Projects)
-5. [Level](#Current-level)
-6. [Contact](📫#Contact-With-Me)
+5. [🎯Level](#Current-level)
+6. [📫Contact](📫#Contact-With-Me)
 
 ### 📚Education
 
@@ -96,12 +96,12 @@ Excel . Power BI
 Cleaned messy retail data, analyzed sales performance, and developed an interactive Power BI dashboard.
 Exploring customer purchasing behaviour and repeating purchase patterns using SQL and Power BI.
 
-### 🎯 Current level
+### 🎯Current level
 
 - Improving SQL querying and analytical skills.
 - Building business-focused data analytics projects.
 - Developing interactive Power BI dashboards.
 
-### 📫 Connect With Me
+### 📫Connect With Me
 
 - Ahmedmustefa316@gmail.com
