@@ -8,10 +8,10 @@ I'm developing practical skills in data cleaning, analysis, and visualization th
 
 ### TABLES OF CONTENTS
 1. [About Me](#about-me)
-2. [Education](📚#Education)
-3. [Technical Skills](🛠️#Technical-Skills)
-4. [Projects](📊#Projects)
-5. [Level](🎯#Current-level)
+2. [📚Education](#Education)
+3. [🛠️Technical Skills](#Technical-Skills)
+4. [📊Projects](#Projects)
+5. [Level](#Current-level)
 6. [Contact](📫#Contact-With-Me)
 
 ### 📚Education
@@ -24,14 +24,14 @@ Graduated: 2024
 - Practical training in Excel, SQL, Power BI, and Power Query.
 - Hands-on projects focused on retail sales and customer purchasing behavior.
 
-### 🛠️ Technical-Skills
+### 🛠️Technical-Skills
 
 Excel: Data Cleaning, Formulas, PivotTables
 SQL: Joins, CTEs, Aggregations, Window Functions
 Power BI: Data Modelling, DAX, Interactive Dashboards
 - Power Query: Data Transformation and Cleaning
 
-# 📊 Projects
+# 📊Projects
 ### In this section I will list data analytics projects briefly describing the technology stack used to solve cases 
 
 ## Retail Sales Analysis
