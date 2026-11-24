@@ -20,7 +20,7 @@ I'm developing practical skills in data cleaning, analysis, and visualization th
 
    
 
-5. [Contact](#connect-with-me)
+5. [Contact](#contact)
 
 ### Education
 
