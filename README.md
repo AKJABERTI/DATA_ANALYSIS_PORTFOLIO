@@ -13,16 +13,16 @@ I'm developing practical skills in data cleaning, analysis, and visualization th
 1. [About Me](#about-me)
    
 
-2. [📚Education](#education)
+2. [Education](#education)
    
 
-4. [📊Projects](#projects)
+4. [Projects](#projects)
 
    
 
-5. [📫Contact](#connect-with-me)
+5. [Contact](#connect-with-me)
 
-### 📚 Education
+### Education
 
 **High School Diploma**  
 Graduated: 2024
@@ -41,7 +41,7 @@ Graduated: 2024
 - Power BI: Data Modelling, DAX, Interactive Dashboards
 - Power Query: Data Transformation and Cleaning
 
-# 📊 Projects
+# Projects
 ### In this section I will list data analytics projects briefly describing the technology stack used to solve cases 
 
 ## Retail Sales Analysis
@@ -240,6 +240,6 @@ Exploring customer purchasing behaviour and repeating purchase patterns using SQ
 - Building business-focused data analytics projects.
 - Developing interactive Power BI dashboards.
 
-### 📫 Connect With Me
+### Contact
 
 - Ahmedmustefa316@gmail.com
