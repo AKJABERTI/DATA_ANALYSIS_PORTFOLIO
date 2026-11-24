@@ -41,6 +41,12 @@ Graduated: 2024
 - Power BI: Data Modelling, DAX, Interactive Dashboards
 - Power Query: Data Transformation and Cleaning
 
+ ### 🎯 Current level
+
+- Improving SQL querying and analytical skills.
+- Building business-focused data analytics projects.
+- Developing interactive Power BI dashboards.
+
 # Projects
 ### In this section I will list data analytics projects briefly describing the technology stack used to solve cases 
 
@@ -117,12 +123,7 @@ Excel . Power BI
  []()
 
 #### SQL
-
-
-
-#### POWER BI
 []()
-
 
 
 #### Description
@@ -222,23 +223,13 @@ Prepare the raw repeat-purchase dataset for reliable analysis by identifying inc
 
 ### Business Recommendations
 
-1. 
+#### Management should prioritize :
 
-2. 
+1. Customer retention because returning customers generate the vast majority of revenue
 
-3. 
-
-
+2. The business should also investigate ways to convert first-time buyers into repeat customers
 
 
-Cleaned messy retail data, analyzed sales performance, and developed an interactive Power BI dashboard.
-Exploring customer purchasing behaviour and repeating purchase patterns using SQL and Power BI.
-
-### 🎯 Current level
-
-- Improving SQL querying and analytical skills.
-- Building business-focused data analytics projects.
-- Developing interactive Power BI dashboards.
 
 ### Contact
 
