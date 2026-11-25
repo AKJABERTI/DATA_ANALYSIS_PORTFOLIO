@@ -133,7 +133,7 @@ Excel . Power BI
 The company wants to understand whether customers return to make additional purchases after their initial transaction.
 
 
-[!repeatedpurchasesdataset](repeatedpurchasesrawdatasetcopy.png)
+![repeatedpurchasesdataset](repeatedpurchasesrawdatasetcopy.png)
 
 
 
@@ -195,6 +195,8 @@ Prepare the raw repeat-purchase dataset for reliable analysis by identifying inc
 - Explain why each correction was necessary.
 - Preserve the raw dataset separately.
 - Export the cleaned dataset for SQL analysis.
+
+
 
 #### SQL — Customer Behaviour & Repeat Purchase Analysis  
 
