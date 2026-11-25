@@ -60,7 +60,7 @@ Graduated: 2024
 
 - The objective of this project is to investigate the raw data, identify and address data quality issues, and transform it into meaningful business insights using Excel, Power Query, and Power BI.
 
-[!raw/cleaneddata](images/Desktop-Screenshot-2026.11.25-20.54.07.65.png)
+![Customer information](images/Desktop-Screenshot-2026.11.25-20.54.07.65.png)
 
 **FILES**:
 
