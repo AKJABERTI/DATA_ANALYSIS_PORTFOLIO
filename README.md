@@ -132,6 +132,11 @@ Excel . Power BI
 
 The company wants to understand whether customers return to make additional purchases after their initial transaction.
 
+
+[!repeatedpurchasesdataset](repeatedpurchasesrawdatasetcopy.png)
+
+
+
 However, before meaningful analysis can take place, the raw dataset needs to be investigated. It may contain missing information, inconsistent formats, and other data quality issues that could affect the reliability of the analysis.
 
 **Management wants to understand**:
