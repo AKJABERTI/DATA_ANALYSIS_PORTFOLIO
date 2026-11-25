@@ -63,7 +63,7 @@ Graduated: 2024
 **FILES**:
 
 #### EXCEL
-[RAW/CLEANED DATASET](retail_data_analyst_first_jobCOPY.xlsx)
+[RAW/CLEANED DATASET](retail_data_analyst_first_jobPROJECT.xlsx)
 
 #### POWER BI
 [RETAIL_SALES_ANALYSIS](RETAIL_SALES_ANALYSIS.pbix)
