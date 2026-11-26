@@ -97,25 +97,43 @@ Excel . Power BI
 
 #### Results
 
-- Generated total recorded revenue of SAR 109,439.75.
-
-- Analyzed 179 transactions and 396 units sold.
-
-- Calculated an average transaction value of approximately SAR 608.
-
-- Identified Office Chair (Product ID 107) as the highest-revenue product, generating SAR 29,997.50.
-
 - Identified data quality issues involving inconsistent dates, missing customer information, and incomplete sales records.
 
 - The analysis provided an overview of retail sales performance and highlighted areas requiring further investigation and data quality improvements.
+
+- Generated total recorded revenue of SAR 121,901.40
+
+- Furniture is the highest Category sold with SAR 84,182.50
+  
+- Stationary is the lowest category sold with only SAR 2,196.25
+
+- Identified Standing Desk (Product ID P106 ) as the highest-revenue product, generating SAR 51,975.00
+
+- Identified Notebook Pack (Product ID P103) as the Lowest-revenue product, generating SAR 2,196.25
+ 
+- Identified May 2026 as the Highest-revenue of the month, generating SAR 22,944.15
+
+- Identified November 2026 as the Lowest-revenue of the month, generating SAR 40.50 with only 1 order
+
+- Identified Makkah as the Highest-revenue, generating SAR 37,798.65
+
+- Identified Unknown as the Lowest-revenue, generating 859.70
+
+- Identified Online Sales Channel as the Highest-revenue, generating SAR 47,771.60
+
+- Identified Store Sales Channel as the  Lowest-revenue, generating  SAR 35,583.40
+  
+
+#### Standing Desk generated SAR 54,975.00 in revenue, compared with SAR 2,196.25 for Notebook Pack. This difference may be influenced by lower selling price . However, before recommending pricing or inventory changes, management should :
+
   
 - ### Business Recommendations
 
-1. 
+1. investigate Profit margins because High revenue doesn't necessarily mean high profit.
 
-2. 
+2. investigate Sales volume because We need to know whether Standing Desk generates more revenue because more units sell or because each unit costs more
 
-3. 
+3. investigate Inventory because We need stock availability and turnover before recommending that management allocate more inventory.. 
 
 ## Repeat Purchase Analysis
 
