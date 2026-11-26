@@ -60,7 +60,7 @@ Graduated: 2024
 
 - The objective of this project is to investigate the raw data, identify and address data quality issues, and transform it into meaningful business insights using Excel, Power Query, and Power BI.
 
-![Customer information](images/Desktop-Screenshot-2026.11.25-20.54.07.65.png)
+![dataset](Dataset.png)
 
 **FILES**:
 
@@ -98,12 +98,22 @@ Excel . Power BI
 #### Results
 
 - Identified data quality issues involving inconsistent dates, missing customer information, and incomplete sales records. These issues require further investigation and data-quality improvements.
+
+![Datalogquality](datalogquality.png)
+
 - Total recorded revenue was SAR 121,901.40.
 - Furniture was the highest-revenue category at SAR 84,182.50. Stationery was the lowest at SAR 2,196.25.
 - Standing Desk (P106) generated the most revenue at SAR 51,975.00. Notebook Pack (P103) generated the least at SAR 2,196.25.
+
+![Revenuebysales](Revenuebysales.png)
+
+
 - May 2026 was the highest-revenue month at SAR 22,944.15. November 2026 was the lowest at SAR 40.50, with one recorded order.
+![]()
 - Makkah had the highest revenue at SAR 37,798.65. Unknown had the lowest at SAR 859.70.
 - The Online channel generated the most revenue at SAR 47,771.60. The Store channel generated the least at SAR 35,583.40.
+
+  ![Revenuebysaleschannel](Revenuebysaleschannelpng.png)
 
 - ### Business Recommendations
  
