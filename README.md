@@ -97,44 +97,22 @@ Excel . Power BI
 
 #### Results
 
-- Identified data quality issues involving inconsistent dates, missing customer information, and incomplete sales records.
+- Identified data quality issues involving inconsistent dates, missing customer information, and incomplete sales records. These issues require further investigation and data-quality improvements.
+- Total recorded revenue was SAR 121,901.40.
+- Furniture was the highest-revenue category at SAR 84,182.50. Stationery was the lowest at SAR 2,196.25.
+- Standing Desk (P106) generated the most revenue at SAR 51,975.00. Notebook Pack (P103) generated the least at SAR 2,196.25.
+- May 2026 was the highest-revenue month at SAR 22,944.15. November 2026 was the lowest at SAR 40.50, with one recorded order.
+- Makkah had the highest revenue at SAR 37,798.65. Unknown had the lowest at SAR 859.70.
+- The Online channel generated the most revenue at SAR 47,771.60. The Store channel generated the least at SAR 35,583.40.
 
-- The analysis provided an overview of retail sales performance and highlighted areas requiring further investigation and data quality improvements.
-
-- Generated total recorded revenue of SAR 121,901.40
-
-- Furniture is the highest Category sold with SAR 84,182.50
-  
-- Stationary is the lowest category sold with only SAR 2,196.25
-
-- Identified Standing Desk (Product ID P106 ) as the highest-revenue product, generating SAR 51,975.00
-
-- Identified Notebook Pack (Product ID P103) as the Lowest-revenue product, generating SAR 2,196.25
- 
-- Identified May 2026 as the Highest-revenue of the month, generating SAR 22,944.15
-
-- Identified November 2026 as the Lowest-revenue of the month, generating SAR 40.50 with only 1 order
-
-- Identified Makkah as the Highest-revenue, generating SAR 37,798.65
-
-- Identified Unknown as the Lowest-revenue, generating 859.70
-
-- Identified Online Sales Channel as the Highest-revenue, generating SAR 47,771.60
-
-- Identified Store Sales Channel as the  Lowest-revenue, generating  SAR 35,583.40
-  
-
-#### Standing Desk generated SAR 54,975.00 in revenue, compared with SAR 2,196.25 for Notebook Pack. This difference may be influenced by lower selling price . However, before recommending pricing or inventory changes, management should :
-
-  
 - ### Business Recommendations
+ 
+- #### Standing Desk revenue was much higher than Notebook Pack revenue, but revenue alone does not show whether a product is more profitable or whether the difference is driven by price or sales volume. Before making pricing or inventory decisions, management should:
 
-1. investigate Profit margins because High revenue doesn't necessarily mean high profit.
-
-2. investigate Sales volume because We need to know whether Standing Desk generates more revenue because more units sell or because each unit costs more
-
-3. investigate Inventory because We need stock availability and turnover before recommending that management allocate more inventory.. 
-
+1. Review profit margins by product and category. Higher revenue does not necessarily mean higher profit.
+2. Compare units sold and average selling prices to understand whether Standing Desk’s higher revenue comes from selling more units, a higher price, or both.
+3. Review inventory availability and turnover before changing stock allocation.
+4. Investigate the data quality issues—especially inconsistent dates, missing customer information, and incomplete sales records—so future comparisons are more reliable.
 ## Repeat Purchase Analysis
 
 **FILES**:
