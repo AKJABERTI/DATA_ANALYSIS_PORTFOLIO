@@ -109,11 +109,20 @@ Excel . Power BI
 
 
 - May 2026 was the highest-revenue month at SAR 22,944.15. November 2026 was the lowest at SAR 40.50, with one recorded order.
-![]()
+
+![monthlyrevenue](MonthlyRevenue.png)
+
 - Makkah had the highest revenue at SAR 37,798.65. Unknown had the lowest at SAR 859.70.
+
+![Revenuebycity](Revenuebycity.png)
+
 - The Online channel generated the most revenue at SAR 47,771.60. The Store channel generated the least at SAR 35,583.40.
 
-  ![Revenuebysaleschannel](Revenuebysaleschannelpng.png)
+![Revenuebysaleschannel](Revenuebysaleschannelpng.png)
+
+- The total quantity generated 603 quantity. The average unit price is 252.45
+
+![Retailsalesdashboard](Retailsalesdashboard.png)
 
 - ### Business Recommendations
  
